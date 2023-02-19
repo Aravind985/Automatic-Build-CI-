@@ -6,19 +6,7 @@ print ("THIS IS SAMPLE PYTHON PROGRAM")
 
 print ("\n")
 
-print ("THIS IS JENKINS Integration")
-
-print ("DRINKER ROUTH rakesh vgtff")
-
-print ("DRINKER ROUTH rakesh vgtff")
-print ("DRINKER ROUTH rakesh vgtff")
-print ("DRINKER ROUTH rakesh vgtff")
-print ("DRINKER ROUTH rakesh vgtff")
-print ("DRINKER ROUTH rakesh vgtff")
-print ("DRINKER ROUTH rakesh vgtff")
-print ("DRINKER ROUTH rakesh vgtff")
-print ("DRINKER ROUTH rakesh vgtff")
-print ("DRINKER ROUTH rakesh vgtff")
+print ("handsome ROUTH rakesh vgtff")
 
 
 
