@@ -7,9 +7,7 @@ print ("THIS IS SAMPLE PYTHON PROGRAM")
 print ("\n")
 
 print ("THIS IS JENKINS Integration")
-print ("chintu")
-print ("hyd")
-print ("wgl")
+
 
 
 
