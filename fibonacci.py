@@ -8,4 +8,5 @@ while count < input_count:
   new = a + b
   a = b
   b = new
-  count += 1
+  count += 1=1
+  
