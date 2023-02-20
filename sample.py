@@ -1,12 +1,8 @@
 ################
 # Sample Python program
 ###################
-
 print ("THIS IS SAMPLE PYTHON PROGRAM")
-
 print ("\n")
-
-
 print ("aravind")
 print ("aravind")
 print ("aravind")
