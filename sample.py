@@ -8,12 +8,8 @@ print ("\n")
 
 
 print ("aravind")
-print ("manohar")
-print ("handsome ROUTH ")
-print ("aravind"
-       
-       
-       print ("aravind"
+print ("aravind")
+print ("aravind")
 
 
 
