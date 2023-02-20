@@ -1,4 +1,4 @@
-a, b = 0, 1
+a, b = 1, 2
 count = 0
 input_count=10
 print("Fibonacci sequence:")
