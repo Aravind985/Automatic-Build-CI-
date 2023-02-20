@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import string
 
-shift = 3
+shift = 4
 choice = "encode"
 word = "Hello"
 letters = string.ascii_letters + string.punctuation + string.digits
